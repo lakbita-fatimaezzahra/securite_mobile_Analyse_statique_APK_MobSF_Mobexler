@@ -75,6 +75,4 @@ les permissions normales
 
  Vérifier les composants exportés
  <img width="1622" height="147" alt="image" src="https://github.com/user-attachments/assets/f3d266a3-9b4d-431a-8510-87708263b21c" />
-Task 5 — Analyse de la configuration réseau
-
 
